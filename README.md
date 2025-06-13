@@ -1,10 +1,21 @@
 # CSS Profile Card
 
-This is a mini project completed during The Odin Project's Intro to CSS lesson.
+This is a mini project completed as part of [The Odin Project](https://www.theodinproject.com/) – *Foundations: Intro to CSS* lesson.
 
-It demonstrates:
+## 💡 What It Demonstrates
 
-- Basic HTML structure
-- CSS styling with colors, fonts, spacing
+- Basic HTML structure and semantic tags
+- CSS styling: colors, fonts, spacing
 - Centered layout using Flexbox
-- A personal profile card component
+- A reusable profile card component
+
+## 🌐 Live Demo
+
+[View Live on GitHub Pages](https://atiix.github.io/css-profile-card) *(optional if you publish it)*
+
+## 📸 Preview
+
+![Profile Card Screenshot](screenshot.png) *(optional if you add one)*
+
+## 📁 Folder Structure
+
